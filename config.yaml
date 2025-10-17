@@ -1,0 +1,4 @@
+provider: mock
+rpc-url: ""
+timeout: 5
+output: table
